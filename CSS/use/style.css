@@ -1,0 +1,20 @@
+p
+{
+    font-size: 40px;
+    color: #bd7676;
+}
+
+/* Class attribute*/
+
+.paragraph
+{
+    color: rebeccapurple;
+}
+
+/* Id attribute */
+
+#text
+{
+    color: yellowgreen;
+    font-size: 24px;
+}
